@@ -1,0 +1,122 @@
+@media screen and  (min-width: 480px) {
+	/******************************************
+	HEADER
+	******************************************/
+
+	#header {
+		height: 13px;
+		background: #135987;
+	}
+
+
+	#input_div {
+		padding: 1.5% 0 0 0;
+	} 
+
+
+	#just_books {
+		text-align: left;
+		font-family: sans-serif, tahoma, serif;
+		float: left;
+		color: white;
+		padding: 0 0 0 4%;
+		font-size: 2em;
+	}
+
+	#input_text {
+		width: 30%;
+		height: 34px;
+	}
+
+
+
+	#submit {
+		padding: 0.6%;
+	}
+
+	#submit:hover {
+		color: #135987;
+	}
+
+
+
+	.book_info {
+	background-color: rgba(0 0 0 .3);
+	border: 2px solid #000;
+	float: right;
+	margin-left: 10px;
+
+
+	}	
+
+
+
+	.book_info p{
+	
+	}
+
+
+	#loader {
+	padding: 0 0 0 599px;
+	margin: 0 auto;
+	}
+
+
+
+	.div_post {
+	padding-top: 0%;
+	display: block;
+	margin: -68px 0 0 0;
+	}
+	
+	/***************************************************
+	CLASS GOTTEN FROM MY BOOK.JS FILE
+	***************************************************/
+
+	.post img{
+	border: 1px solid gray;
+	box-shadow: 1px 1px 5px 3px gray;
+	}
+
+
+	.post img:hover{
+	border: 1px solid gray;
+	box-shadow: 1px 1px 7px 5px gray;
+	}
+
+	
+	#image {
+		height: ;
+		width: 11%;
+		padding: 2% 0;
+	}
+
+
+	
+	.post {
+		display: inline;
+		padding: 6%;
+
+	}
+
+	.box {
+		display: none;
+	}
+
+}
+
+
+
+@media screen and  (min-width: 960px) {
+		#div_picture {
+		background: url(../img/bookimage.jpg) no-repeat;
+		background-position: -280px -90px;
+		height: 80%;
+		background-size: cover;
+	}
+
+
+}
+
+
+

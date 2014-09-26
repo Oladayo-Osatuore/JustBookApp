@@ -1,0 +1,193 @@
+/***************************************
+HEADER
+***************************************/
+
+
+header {
+	background-color: #135987;
+	padding: 0 0 4% 0;
+	text-align: center;
+}
+
+
+
+/**************************************
+BODY
+**************************************/
+
+
+#input_div {
+	padding: 1em;
+}
+
+
+
+#just_books {
+	text-align: left;
+	padding: 0 0 1px 0;
+	font-family: sans-serif, tahoma, serif;
+	color: white;
+	text-align: center
+}
+
+
+
+#input_text {
+	margin:;
+}
+
+
+#submit:hover {
+	color: #135987;
+}
+
+
+
+#div_picture {
+	background: url(../img/bookimage1.jpg) no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-ms-background-size: cover;
+	-o-background-size: cover;
+	min-height: 40%;
+}
+
+
+
+#loader {
+	padding: 0 0 0 125px;
+	margin: 0 auto;
+}
+
+
+
+.hidden {
+	display: none;
+}
+
+
+
+.div_post {
+	padding-top: 6%;
+}
+
+
+
+/******************************************************
+CLASSES GOTTEN FROM MY BOOK.JS FILE
+******************************************************/
+
+
+.post img{
+	border: 1px solid gray;
+}
+
+
+#image {
+	display: inline-block;
+	width: 45%;
+	margin: 10px 0 1px 21px;
+}
+
+
+.box {
+	display: inline-block;
+	margin: 10px 0 15px 0;
+	border: 1px solid black;
+	width: 45%;
+	vertical-align: top;
+}
+
+
+.titile {
+	color: red;
+	padding: 0 1px;
+}
+
+
+.author {
+	color: green;
+	font-size: 0.9em;
+	padding: 0 1px;
+}
+
+
+.pageCount {
+	color: blue;
+	padding: 0 1px;
+}
+
+
+
+/************************************
+FOOTER
+************************************/
+
+
+ footer {
+	font-size: 1em;
+	text-align: center;
+	clear: both;
+	padding-top: 25px;
+	color: #000;
+	background-color: #888;
+}
+
+
+/*footer nav {
+	padding: 0 10px 0 0;
+	background-color: #000;
+	color: #fff;
+	width: 100%;
+}*/
+
+
+footer p {
+	padding: 0 10px 0 0;	
+	width: 100%;
+	color: #000;
+}
+
+
+
+.social-icon1 {
+	width: 23px;
+	height: 23px;
+	margin: 0.5px;
+	padding-top: 7px;
+
+}
+
+
+.social-icon2 {
+	width: 30px;
+	height: 30px;
+	margin: 0.5px;
+	padding-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
